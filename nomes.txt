@@ -1,4 +1,5 @@
-freire 
-pontes
-marcus
-vinicius
+freire - 03
+pontes - 04
+marcus - 01
+vinicius - 02
+
